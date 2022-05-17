@@ -1,0 +1,324 @@
+Primate_div_Project	Great_ape_data
+PD_0004-Ateles_belzebuth	ERS1986505-Pongo_abelii
+PD_0005-Alouatta_macconnelli	ERS1986506-Pongo_abelii
+PD_0016-Lagothrix_lagothricha	ERS1986509-Pongo_abelii
+PD_0025-Alouatta_seniculus	ERS1986510-Pongo_abelii
+PD_0026-Alouatta_puruensis	SRS396839-Pongo_abelii
+PD_0073-Alouatta_caraya	Imfura-Gorilla_beringei_beringei
+PD_0074-Ateles_chamek	Kaboko-Gorilla_beringei_beringei
+PD_0075-Ateles_paniscus	Maisha-Gorilla_beringei_beringei
+PD_0076-Ateles_marginatus	Tuck-Gorilla_beringei_beringei
+PD_0089-Alouatta_macconnelli	Zirikana-Gorilla_beringei_beringei
+PD_0134-Alouatta_seniculus	9732-Gorilla_beringei_graueri
+PD_0135-Alouatta_macconnelli	A929-Gorilla_beringei_graueri
+PD_0136-Alouatta_seniculus	Itebero-Gorilla_beringei_graueri
+PD_0137-Alouatta_puruensis	Ntabwoba-Gorilla_beringei_graueri
+PD_0138-Ateles_belzebuth	Tumani-Gorilla_beringei_graueri
+PD_0139-Ateles_chamek	9749-Gorilla_gorilla_gorilla
+PD_0140-Ateles_chamek	9750-Gorilla_gorilla_gorilla
+PD_0294-Alouatta_belzebul	9751-Gorilla_gorilla_gorilla
+PD_0295-Alouatta_discolor	9752-Gorilla_gorilla_gorilla
+PD_0296-Alouatta_nigerrima	9753-Gorilla_gorilla_gorilla
+PD_0297-Alouatta_seniculus	A931-Gorilla_gorilla_gorilla
+PD_0298-Alouatta_seniculus	A932-Gorilla_gorilla_gorilla
+PD_0299-Alouatta_caraya	A933-Gorilla_gorilla_gorilla
+PD_0300-Ateles_chamek	A934-Gorilla_gorilla_gorilla
+PD_0301-Ateles_chamek	A936-Gorilla_gorilla_gorilla
+PD_0302-Ateles_chamek	A962-Gorilla_gorilla_gorilla
+PD_0303-Ateles_chamek	KB3782-Gorilla_gorilla_gorilla
+PD_0304-Ateles_paniscus	KB3784-Gorilla_gorilla_gorilla
+PD_0305-Ateles_chamek	KB4986-Gorilla_gorilla_gorilla
+PD_0412-Alouatta_seniculus	KB5792-Gorilla_gorilla_gorilla
+PD_0413-Alouatta_seniculus	KB5852-Gorilla_gorilla_gorilla
+PD_0414-Alouatta_seniculus	KB6039-Gorilla_gorilla_gorilla
+PD_0415-Alouatta_nigerrima	KB7973-Gorilla_gorilla_gorilla
+PD_0416-Alouatta_macconnelli	X00108-Gorilla_gorilla_gorilla
+PD_0418-Alouatta_seniculus	X00109-Gorilla_gorilla_gorilla
+PD_0419-Alouatta_puruensis	Africa_20-Homo_sapiens
+PD_0420-Alouatta_juara	Africa_21-Homo_sapiens
+PD_0421-Alouatta_juara	Africa_22-Homo_sapiens
+PD_0422-Alouatta_seniculus	Africa_23-Homo_sapiens
+PD_0423-Alouatta_seniculus	Africa_24-Homo_sapiens
+PD_0424-Alouatta_seniculus	Africa_25-Homo_sapiens
+PD_0425-Alouatta_seniculus	Africa_26-Homo_sapiens
+PD_0426-Alouatta_puruensis	Africa_27-Homo_sapiens
+PD_0428-Alouatta_seniculus	Africa_28-Homo_sapiens
+PD_0430-Alouatta_puruensis	WestEurasia_0-Homo_sapiens
+PD_0431-Ateles_chamek	WestEurasia_1-Homo_sapiens
+PD_0432-Ateles_chamek	WestEurasia_2-Homo_sapiens
+PD_0433-Ateles_chamek	WestEurasia_3-Homo_sapiens
+PD_0032-Cercopithecus_ascanius	WestEurasia_4-Homo_sapiens
+PD_0033-Cercopithecus_nictitans	WestEurasia_5-Homo_sapiens
+PD_0041-Cercopithecus_cephus	WestEurasia_6-Homo_sapiens
+PD_0042-Cercopithecus_mona	WestEurasia_7-Homo_sapiens
+PD_0043-Cercopithecus_lowei	WestEurasia_8-Homo_sapiens
+PD_0058-Cercopithecus_neglectus	WestEurasia_9-Homo_sapiens
+PD_0059-Cercopithecus_diana	A914_Hortense-Pan_paniscus
+PD_0061-Cercopithecus_mitis	A915_Kosana-Pan_paniscus
+PD_0066-Cercopithecus_ascanius	A917_Dzeeta-Pan_paniscus
+PD_0090-Cercopithecus_nictitans	A918_Hermien-Pan_paniscus
+PD_0091-Cercopithecus_petaurista	A919_Desmond-Pan_paniscus
+PD_0092-Cercopithecus_pogonias	A923_Kombote-Pan_paniscus
+PD_0093-Cercopithecus_roloway	A925_Bono-Pan_paniscus
+PD_0094-Cercopithecus_cephus	A926_Natalie-Pan_paniscus
+PD_0095-Cercopithecus_cephus	B010_Ikuru-Pan_troglodytes
+PD_0096-Cercopithecus_mitis	Akwaya-Pan_troglodytes_ellioti
+PD_0124-Miopithecus_ogouensis	Banyo-Pan_troglodytes_ellioti
+PD_0406-Cercopithecus_ascanius	Basho-Pan_troglodytes_ellioti
+PD_0407-Cercopithecus_neglectus	Damian-Pan_troglodytes_ellioti
+PD_0410-Cercopithecus_ascanius	Julie-Pan_troglodytes_ellioti
+PD_0028-Allenopithecus_nigroviridis	Kopongo-Pan_troglodytes_ellioti
+PD_0029-Allochrocebus_lhoesti	Koto-Pan_troglodytes_ellioti
+PD_0030-Allochrocebus_preussi	Paquita-Pan_troglodytes_ellioti
+PD_0031-Allochrocebus_solatus	Taweh-Pan_troglodytes_ellioti
+PD_0126-Allenopithecus_nigroviridis	Tobi-Pan_troglodytes_ellioti
+PD_0127-Allochrocebus_lhoesti	N018_Trixie-Pan_troglodytes
+PD_0173-Chlorocebus_pygerythrus	100037-Pan_troglodytes_schweinfurthii
+PD_0148-Daubentonia_madagascariensis	100040-Pan_troglodytes_schweinfurthii
+PD_0179-Gorilla_beringei	9729-Pan_troglodytes_schweinfurthii
+PD_0180-Gorilla_gorilla	A910-Pan_troglodytes_schweinfurthii
+PD_0181-Gorilla_gorilla	A911-Pan_troglodytes_schweinfurthii
+PD_0183-Gorilla_gorilla	A912-Pan_troglodytes_schweinfurthii
+PD_0184-Gorilla_gorilla	B007-Pan_troglodytes_schweinfurthii
+PD_0185-Gorilla_gorilla	B011-Pan_troglodytes_schweinfurthii
+PD_0186-Gorilla_gorilla	B012-Pan_troglodytes_schweinfurthii
+PD_0188-Gorilla_gorilla	B013-Pan_troglodytes_schweinfurthii
+PD_0189-Gorilla_gorilla	B014-Pan_troglodytes_schweinfurthii
+PD_0190-Gorilla_gorilla	Mgbadolite-Pan_troglodytes_schweinfurthii
+PD_0191-Gorilla_gorilla	N015-Pan_troglodytes_schweinfurthii
+PD_0192-Gorilla_gorilla	N019-Pan_troglodytes_schweinfurthii
+PD_0193-Gorilla_gorilla	10964-Pan_troglodytes_troglodytes
+PD_0194-Gorilla_gorilla	11352-Pan_troglodytes_troglodytes
+PD_0195-Gorilla_gorilla	11528-Pan_troglodytes_troglodytes
+PD_0196-Gorilla_gorilla	12320-Pan_troglodytes_troglodytes
+PD_0197-Gorilla_gorilla	12348-Pan_troglodytes_troglodytes
+PD_0198-Gorilla_gorilla	12420-Pan_troglodytes_troglodytes
+PD_0260-Gorilla_gorilla	13656-Pan_troglodytes_troglodytes
+PD_0264-Gorilla_gorilla	A957-Pan_troglodytes_troglodytes
+PD_0623-Otolemur_crassicaudatus	A958-Pan_troglodytes_troglodytes
+PD_0624-Otolemur_garnettii	A959-Pan_troglodytes_troglodytes
+PD_0625-Otolemur_crassicaudatus	A960-Pan_troglodytes_troglodytes
+PD_0003-Cacajao_hosomi	A990-Pan_troglodytes_troglodytes
+PD_0006-Chiropotes_israelita	B021-Pan_troglodytes_troglodytes
+PD_0015-Pithecia_vanzolinii	B022-Pan_troglodytes_troglodytes
+PD_0018-Cacajao_melanocephalus	B023-Pan_troglodytes_troglodytes
+PD_0019-Cacajao_ayresi	B024-Pan_troglodytes_troglodytes
+PD_0020-Cacajao_calvus	B025-Pan_troglodytes_troglodytes
+PD_0021-Cacajao_calvus	9668-Pan_troglodytes_verus
+PD_0022-Cacajao_ayresi	A956-Pan_troglodytes_verus
+PD_0023-Cacajao_calvus	A993-Pan_troglodytes_verus
+PD_0024-Cacajao_calvus	B005-Pan_troglodytes_verus
+PD_0080-Chiropotes_albinasus	B006-Pan_troglodytes_verus
+PD_0081-Chiropotes_sagulatus	Clint-Pan_troglodytes_verus
+PD_0082-Chiropotes_sagulatus	X00100-Pan_troglodytes_verus
+PD_0083-Pithecia_pissinattii	ERS1986512-Pongo_pygmaeus
+PD_0084-Pithecia_chrysocephala	ERS1986513-Pongo_pygmaeus
+PD_0085-Pithecia_hirsuta	ERS1986514-Pongo_pygmaeus
+PD_0086-Pithecia_mittermeieri	ERS1986515-Pongo_pygmaeus
+PD_0087-Pithecia_albicans	ERS1986516-Pongo_pygmaeus
+PD_0088-Cacajao_calvus	ERS1986518-Pongo_pygmaeus
+PD_0128-Cacajao_melanocephalus	ERS1986519-Pongo_pygmaeus
+PD_0129-Cacajao_hosomi	SRS396833-Pongo_pygmaeus
+PD_0130-Cacajao_calvus	SRS396835-Pongo_pygmaeus
+PD_0131-Cacajao_ayresi	SRS396836-Pongo_pygmaeus
+PD_0132-Cacajao_calvus	Outgroup-Tupaia_chinensis
+PD_0133-Cacajao_calvus	
+PD_0142-Chiropotes_albinasus	
+PD_0143-Pithecia_hirsuta	
+PD_0144-Pithecia_pissinattii	
+PD_0289-Cacajao_calvus	
+PD_0290-Cacajao_calvus	
+PD_0291-Cacajao_calvus	
+PD_0292-Cacajao_calvus	
+PD_0307-Cacajao_calvus	
+PD_0308-Cacajao_calvus	
+PD_0323-Chiropotes_albinasus	
+PD_0325-Chiropotes_albinasus	
+PD_0326-Chiropotes_israelita	
+PD_0327-Chiropotes_israelita	
+PD_0328-Chiropotes_israelita	
+PD_0329-Chiropotes_sagulatus	
+PD_0330-Chiropotes_sagulatus	
+PD_0331-Pithecia_pissinattii	
+PD_0332-Plecturocebus_bernhardi	
+PD_0345-Chiropotes_albinasus	
+PD_0434-Cacajao_calvus	
+PD_0435-Cacajao_calvus	
+PD_0436-Cacajao_calvus	
+PD_0437-Cacajao_calvus	
+PD_0146-Avahi_laniger	
+PD_0147-Avahi_peyrierasi	
+PD_0167-Propithecus_coronatus	
+PD_0168-Propithecus_diadema	
+PD_0169-Propithecus_edwardsi	
+PD_0170-Propithecus_perrieri	
+PD_0171-Propithecus_tattersalli	
+PD_0172-Propithecus_verreauxi	
+PD_0251-Propithecus_diadema	
+PD_0252-Propithecus_perrieri	
+PD_0609-Propithecus_coquereli	
+PD_0854-Indri_indri	
+PD_0199-Papio_anubis	
+PD_0200-Papio_anubis	
+PD_0201-Papio_anubis	
+PD_0202-Papio_anubis	
+PD_0203-Papio_anubis	
+PD_0204-Papio_anubis	
+PD_0205-Papio_anubis	
+PD_0206-Papio_anubis	
+PD_0207-Papio_anubis	
+PD_0208-Papio_anubis	
+PD_0209-Papio_anubis	
+PD_0210-Papio_anubis	
+PD_0211-Papio_anubis	
+PD_0212-Papio_anubis	
+PD_0213-Papio_cynocephalus	
+PD_0214-Papio_cynocephalus	
+PD_0215-Papio_cynocephalus	
+PD_0216-Papio_cynocephalus	
+PD_0217-Papio_cynocephalus	
+PD_0219-Papio_anubis	
+PD_0220-Papio_anubis	
+PD_0221-Papio_anubis	
+PD_0222-Papio_anubis	
+PD_0223-Papio_cynocephalus	
+PD_0224-Papio_cynocephalus	
+PD_0225-Papio_cynocephalus	
+PD_0226-Papio_cynocephalus	
+PD_0227-Papio_cynocephalus	
+PD_0228-Papio_cynocephalus	
+PD_0229-Papio_cynocephalus	
+PD_0230-Papio_cynocephalus	
+PD_0231-Papio_cynocephalus	
+PD_0232-Papio_cynocephalus	
+PD_0233-Papio_cynocephalus	
+PD_0234-Papio_cynocephalus	
+PD_0235-Papio_cynocephalus	
+PD_0236-Papio_cynocephalus	
+PD_0237-Papio_cynocephalus	
+PD_0238-Papio_anubis	
+PD_0239-Papio_anubis	
+PD_0240-Papio_anubis	
+PD_0241-Papio_anubis	
+PD_0242-Papio_anubis	
+PD_0243-Papio_anubis	
+PD_0244-Papio_anubis	
+PD_0390-Papio_papio	
+PD_0391-Papio_papio	
+PD_0392-Papio_papio	
+PD_0393-Papio_papio	
+PD_0394-Papio_papio	
+PD_0395-Papio_papio	
+PD_0396-Papio_papio	
+PD_0397-Papio_papio	
+PD_0398-Papio_papio	
+PD_0399-Papio_papio	
+PD_0400-Papio_papio	
+PD_0401-Papio_papio	
+PD_0692-Papio_ursinus	
+PD_0693-Papio_ursinus	
+PD_0694-Papio_ursinus	
+PD_0695-Papio_ursinus	
+PD_0696-Papio_hamadryas	
+PD_0697-Papio_hamadryas	
+PD_0698-Papio_hamadryas	
+PD_0699-Papio_hamadryas	
+PD_0700-Papio_hamadryas	
+PD_0701-Papio_hamadryas	
+PD_0702-Papio_hamadryas	
+PD_0703-Papio_hamadryas	
+PD_0705-Papio_hamadryas	
+PD_0706-Papio_hamadryas	
+PD_0707-Papio_hamadryas	
+PD_0708-Papio_hamadryas	
+PD_0709-Papio_hamadryas	
+PD_0710-Papio_hamadryas	
+PD_0711-Papio_hamadryas	
+PD_0712-Papio_hamadryas	
+PD_0713-Papio_hamadryas	
+PD_0714-Papio_hamadryas	
+PD_0715-Papio_hamadryas	
+PD_0716-Papio_hamadryas	
+PD_0717-Papio_hamadryas	
+PD_0718-Papio_hamadryas	
+PD_0719-Papio_hamadryas	
+PD_0720-Papio_anubis	
+PD_0721-Papio_anubis	
+PD_0722-Papio_anubis	
+PD_0723-Papio_anubis	
+PD_0724-Papio_anubis	
+PD_0725-Papio_anubis	
+PD_0726-Papio_anubis	
+PD_0727-Papio_anubis	
+PD_0728-Papio_anubis	
+PD_0729-Papio_anubis	
+PD_0730-Papio_anubis	
+PD_0731-Papio_anubis	
+PD_0732-Papio_anubis	
+PD_0733-Papio_anubis	
+PD_0734-Papio_anubis	
+PD_0735-Papio_anubis	
+PD_0736-Papio_anubis	
+PD_0737-Papio_anubis	
+PD_0738-Papio_anubis	
+PD_0739-Papio_anubis	
+PD_0740-Papio_anubis	
+PD_0741-Papio_anubis	
+PD_0742-Papio_anubis	
+PD_0743-Papio_anubis	
+PD_0744-Papio_anubis	
+PD_0745-Papio_cynocephalus	
+PD_0746-Papio_cynocephalus	
+PD_0747-Papio_cynocephalus	
+PD_0748-Papio_cynocephalus	
+PD_0749-Papio_kindae	
+PD_0750-Papio_kindae	
+PD_0751-Papio_kindae	
+PD_0752-Papio_cynocephalus	
+PD_0753-Papio_cynocephalus	
+PD_0754-Papio_cynocephalus	
+PD_0755-Papio_cynocephalus	
+PD_0756-Papio_cynocephalus	
+PD_0757-Papio_cynocephalus	
+PD_0758-Papio_kindae	
+PD_0759-Papio_kindae	
+PD_0760-Papio_kindae	
+PD_0761-Papio_cynocephalus	
+PD_0762-Papio_cynocephalus	
+PD_0763-Papio_cynocephalus	
+PD_0764-Papio_cynocephalus	
+PD_0765-Papio_cynocephalus	
+PD_0766-Papio_cynocephalus	
+PD_0767-Papio_cynocephalus	
+PD_0768-Papio_cynocephalus	
+PD_0769-Papio_cynocephalus	
+PD_0770-Papio_cynocephalus	
+PD_0771-Papio_cynocephalus	
+PD_0772-Papio_cynocephalus	
+PD_0773-Papio_cynocephalus	
+PD_0774-Papio_cynocephalus	
+PD_0775-Papio_cynocephalus	
+PD_0776-Papio_kindae	
+PD_0777-Papio_kindae	
+PD_0778-Papio_kindae	
+PD_0779-Papio_kindae	
+PD_0780-Papio_kindae	
+PD_0781-Papio_kindae	
+PD_0782-Papio_kindae	
+PD_0783-Papio_kindae	
+PD_0784-Papio_kindae	
+PD_0785-Papio_kindae	
+PD_0786-Papio_kindae	
+PD_0787-Papio_kindae	
+PD_0788-Papio_kindae	
+PD_0789-Papio_kindae	
+PD_0790-Papio_kindae	
+PD_0791-Papio_kindae	
+PD_0792-Papio_kindae	
+PD_0793-Papio_kindae	
+PD_0794_BAB-Papio_kindae	
+PD_0404-Tarsius_lariang	
+PD_0405-Tarsius_wallacei	
+PD_0628-Cephalopachus_bancanus	
+PD_0629-Carlito_syrichta	
+PD_0067-Theropithecus_gelada	
